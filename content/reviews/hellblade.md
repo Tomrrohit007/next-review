@@ -1,7 +1,7 @@
 ---
-title: "HellBlade"
+title: "Hellblade"
+date: "2023-05-06"
 image: "/images/hellblade.jpg"
-date: "2023-08-25"
 ---
 
-This the review of __Hellblade__ 
+This is the review for __Hellblade__.
